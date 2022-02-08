@@ -4,7 +4,7 @@ description: >-
   Ejemplo de esqueleto de un sitio web creado con Jekyll 
   para prácticas de alumnos utilizando Markdown, HTML,
   JavaScript, CSS y otras tecnologías relacionadas
-baseurl: "/jekyll-skel"
+baseurl: "/jekyllskel.github.io"
 url: "https://github.com/mariorodbel/jekyllskel.github.io"
 
 theme: minima
