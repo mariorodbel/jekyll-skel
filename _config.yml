@@ -7,7 +7,7 @@ description: >-
 baseurl: "/jekyll-skel"
 url: "https://github.com/mariorodbel/jekyll-skel"
 
-theme: minima
+theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
 
